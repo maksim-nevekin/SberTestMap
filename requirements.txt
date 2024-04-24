@@ -1,0 +1,9 @@
+django==4.2
+django-admin-geomap==1.6
+folium==0.16.0
+leaflet==0.0.3
+pip-chill==1.0.3
+polyline==2.0.2
+python-decouple==3.8
+yandexmaps==0.3
+ymaps==1.3

@@ -1,0 +1,11 @@
+#python staff
+venv/
+.pylintrc
+__pycache__/
+
+#ide stuff
+.vscode
+.idea
+
+#django settings
+.env
