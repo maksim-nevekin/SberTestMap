@@ -1,0 +1,17 @@
+.map {
+	width: 60%;
+	height: 80%;
+	background-color: #979797;
+}
+
+[class*="copyrights-pane"] {
+	display: none !important;
+}
+
+
+.category-button {
+	width: 19%;
+	padding: 10px;
+	margin-right: 10px;
+	cursor: pointer;
+}
